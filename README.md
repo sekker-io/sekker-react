@@ -1,4 +1,4 @@
-![](assets/Artboard 102.png)
+![](https://i.ibb.co/8cHMXkx/Artboard-102.png)
 # @sekker/sekker-react
 React lib to manage and initialize [Sekker](https://sekker.io/) surveys easily
 ## Getting Started
