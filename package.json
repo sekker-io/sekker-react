@@ -1,0 +1,29 @@
+{
+  "name": "@sekker/sekker-react",
+  "version": "1.0.0",
+  "description": "React lib to manage and initialize Sekker surveys easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sekker-io/sekker-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sekker-io/sekker-react/issues"
+  },
+  "homepage": "https://github.com/sekker-io/sekker-react#readme",
+  "peerDependencies": {
+    "react": "17.x.x"
+  },
+  "devDependencies": {
+    "@sekker/types": "^1.0.118",
+    "@types/react": "^17.0.37",
+    "react": "^17.0.2",
+    "typescript": "^4.5.2"
+  }
+}
