@@ -29,7 +29,7 @@
   "devDependencies": {
     "@babel/core": "^7.16.0",
     "@rollup/plugin-commonjs": "^21.0.1",
-    "@sekker/types": "^1.0.118",
+    "@sekker/types": "^1.0.119",
     "@types/react": "^17.0.37",
     "react": "^17.0.2",
     "rollup": "^2.61.0",
